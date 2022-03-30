@@ -1,11 +1,11 @@
 <template>
   <div id="app">
-    ss
+    <!--展位符号-->
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-
 export default {
   name: 'app'
 }
